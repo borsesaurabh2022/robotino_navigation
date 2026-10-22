@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>Package for recovery behavior</description>
   <maintainer email="saurabh.borse@alumni.fh-aachen.de">srb-jarvis</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
